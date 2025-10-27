@@ -1,0 +1,3 @@
+- git remote: Manage remote repositories
+- git push: Upload changes to remote
+- git pull: Download changes from remote
